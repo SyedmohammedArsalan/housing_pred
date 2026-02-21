@@ -1,0 +1,5 @@
+# created by virtualenv automatically
+my_env/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
